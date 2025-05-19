@@ -10,9 +10,7 @@
 -->
 
 <h1> Hi, I'm Akshat!</h1> 
-<div style="padding: 20px">
-  <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" style="max-width: 90%; margin-left: 20px; margin-bottom: 10px;">
-</div>
+  <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="190">
 
 ### 🌟A glance into my coding world...
 
