@@ -12,7 +12,8 @@
 <h1> Hi, I'm Akshat!</h1> 
   <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="190">
 
-### 🌟A glance into my coding world...
+### ![WowWorldOfWarcraftGIF](https://github.com/user-attachments/assets/2f687079-e412-4d39-92e7-3fd2c824f0f3)
+A glance to my coding universe...
 
 ```javascript
 const Akshat = {
