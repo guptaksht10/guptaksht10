@@ -4,7 +4,7 @@
   <div>
     <h3>🌟!! Insert Snack to Continue 🍕...</h3>
   </div>
-  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Coding Cat" style="width: 190px; border-radius: 10px; margin-left: 20px;" />
+  <img align = "right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Coding Cat" style="width: 190px; border-radius: 10px; margin-left: 20px;" />
 </div>
 
 ```javascript
