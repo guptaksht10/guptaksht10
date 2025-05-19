@@ -12,7 +12,7 @@
 <h1> Hi, I'm Akshat!</h1> 
   <img align="right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="190">
 
-### !! Insert Snack to Continue 🍕...
+### 🌟!! Insert Snack to Continue 🍕...
 
 ```javascript
 const Akshat = {
