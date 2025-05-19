@@ -10,7 +10,7 @@
 -->
 
 <h1> Hi, I'm Akshat! 
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&psig=AOvVaw36EbSx49MAQXdNtPHdh6IZ&ust=1747752491400000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCz68bjr40DFQAAAAAdAAAAABAp" width="230">
+<img align='right' src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="230">
 
 ### 🌟A glance into my coding world...
 
@@ -52,5 +52,3 @@ const Akshat = {
 
 
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Always open to a good conversation. Let’s connect!</b> :)</em>
