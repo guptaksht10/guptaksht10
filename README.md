@@ -18,7 +18,8 @@
 const Akshat = {
   identity: "🚀 Coder by Passion | Developer by Choice | Explorer by Nature",
   pronouns: ["he", "him"],
-  about: "Hey there! I'm Akshat – a 3rd-year B.Tech CSE student at the Delhi Technological University (Formely DCE), driven by curiosity and caffeine.",
+  about: "Hey there! I'm Akshat – a 3rd-year B.Tech CSE student at the
+  Delhi Technological University (Formely DCE), driven by curiosity and caffeine.",
   domains: [
     "🧠 AI/ML Enthusiast",
     "🌐 Web Developer (MERN & beyond)",
