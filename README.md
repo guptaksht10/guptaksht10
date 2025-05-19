@@ -1,18 +1,11 @@
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Hi, I'm Akshat!</h1> 
 
-<h1> Hi, I'm Akshat!</h1> 
- <br> <img align = "right" src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" width="190">
-
-### 🌟!! Insert Snack to Continue 🍕...
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3>🌟!! Insert Snack to Continue 🍕...</h3>
+  </div>
+  <img src="https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif" alt="Coding Cat" style="width: 190px; border-radius: 10px; margin-left: 20px;" />
+</div>
 
 ```javascript
 const Akshat = {
@@ -35,8 +28,8 @@ const Akshat = {
       "Scikit-learn", "TensorFlow", "Keras", "PyTorch",
       "OpenCV", "YOLOv5", "Flask", "FastAPI"
     ],
-  database: ["MySQL", "MongoDB", "PostgreSQL"],
-  toolsAndPlatforms: [
+    database: ["MySQL", "MongoDB", "PostgreSQL"],
+    toolsAndPlatforms: [
       "Git", "GitHub", "VS Code", 
       "Jupyter Notebook", "Postman", 
       "Figma", "Sublime Text", "Docker", "VMware"
@@ -50,6 +43,3 @@ const Akshat = {
     "♟️ Chess – where I strategize like a boss"
   ]
 }
-
-
-```
